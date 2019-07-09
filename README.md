@@ -22,3 +22,4 @@ For each problem, I have the following procedure:
     - Runtime complexity progression
     - Afterthoughts
 5. Merge the feature branch to `master`
+6. Update the index to reference the newly completed problem
