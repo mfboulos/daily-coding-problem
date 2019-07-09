@@ -23,3 +23,5 @@ For each problem, I have the following procedure:
     - Afterthoughts
 5. Merge the feature branch to `master`
 6. Update the index to reference the newly completed problem
+
+A template for each problem's meta info can be found [here](template.md).
