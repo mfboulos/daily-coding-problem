@@ -9,3 +9,5 @@
 ### 4: [Solution](challenges/Stripe/problem4/solution.js) - [Info](challenges/Stripe/problem4/README.md)
 
 ### 5: [Solution](challenges/JaneStreet/problem5/solution.py) - [Info](challenges/JaneStreet/problem5/README.md)
+
+### 6: [Solution](challenges/Google/problem6/solution.cpp) - [Info](challenges/Google/problem6/README.md)
