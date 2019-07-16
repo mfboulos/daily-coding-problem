@@ -11,3 +11,5 @@
 ### 5: [Solution](challenges/JaneStreet/problem5/solution.py) - [Info](challenges/JaneStreet/problem5/README.md)
 
 ### 6: [Solution](challenges/Google/problem6/solution.cpp) - [Info](challenges/Google/problem6/README.md)
+
+### 7: [Solution](challenges/Facebook/problem7/solution.py) - [Info](challenges/Facebook/problem7/README.md)
