@@ -13,3 +13,5 @@
 ### 6: [Solution](challenges/Google/problem6/solution.cpp) - [Info](challenges/Google/problem6/README.md)
 
 ### 7: [Solution](challenges/Facebook/problem7/solution.py) - [Info](challenges/Facebook/problem7/README.md)
+
+### 8: [Solution](challenges/Google/problem8/solution.py) - [Info](challenges/Google/problem8/README.md)
