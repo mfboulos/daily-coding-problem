@@ -17,3 +17,5 @@
 ### 8: [Solution](challenges/Google/problem8/solution.py) - [Info](challenges/Google/problem8/README.md)
 
 ### 9: [Solution](challenges/Airbnb/problem9/solution.py) - [Info](challenges/Airbnb/problem9/README.md)
+
+### 10: [Solution](challenges/Apple/problem10/solution.py) - [Info](challenges/Apple/problem10/README.md)
