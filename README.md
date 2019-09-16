@@ -5,6 +5,8 @@ Each solution is contained within its own subdirectory within [challenges](chall
 
 You can also navigate to each solution independently through the [index](index.md).
 
+_Daily Coding Problem sidelined in favor of Hackerrank and Leetcode._
+
 ---
 
 ### Solution Procedure
